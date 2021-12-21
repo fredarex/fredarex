@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://fredoportfolio.netlify.app/)**
-
 - 📫 How to reach me **fredobi200@gmail.com**
 
 
