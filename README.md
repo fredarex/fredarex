@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Covid-19 Tracker**
+- 🔭 I’m currently working on **real estate mobile app**
 
 - 🌱 I’m currently learning **Node js.**
 
